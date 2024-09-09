@@ -1,0 +1,5 @@
+P1;Computador;633212,90
+P2;Teclado;840548,29
+P3;Teclado;786588,47
+P4;Celular;826300,75
+P5;TV;820152,00
