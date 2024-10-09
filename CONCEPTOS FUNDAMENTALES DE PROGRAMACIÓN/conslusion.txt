@@ -1,0 +1,8 @@
+Lo aprendido durante el desarrollo del proyecto:
+Durante el desarrollo de este proyecto, aprendimos cómo manejar archivos en formato texto y cómo procesar grandes cantidades de información utilizando Java. Además, mejoramos nuestras habilidades en el diseño de programas estructurados, con especial énfasis en la creación de archivos pseudoaleatorios y la generación de reportes a partir de datos procesados. También, aprendimos a aplicar buenas prácticas de programación, como la documentación adecuada del código y el uso de variables bien nombradas.
+
+Posibles aplicaciones en mi vida profesional:
+Las habilidades adquiridas durante este proyecto tienen diversas aplicaciones en el mundo profesional. En particular, el manejo eficiente de archivos y la generación de reportes automatizados es clave en áreas como la gestión de ventas, el análisis de datos, y la optimización de procesos empresariales. La capacidad para generar y procesar archivos de ventas puede ser aplicada en sistemas de gestión empresarial, como los que se utilizan en supermercados y otros entornos comerciales.
+
+Dificultades presentadas:
+Uno de los principales desafíos fue diseñar un sistema que pudiera manejar un número indefinido de archivos de vendedores y procesarlos de manera eficiente. También fue un reto la integración de las diversas partes del programa, especialmente cuando se trataba de generar los reportes correctamente ordenados y asegurar que los archivos generados siguieran el formato adecuado. Además, el manejo de errores, como formatos incorrectos o datos faltantes, añadió una capa de complejidad al proyecto.
